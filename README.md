@@ -1,4 +1,5 @@
 # A Porechop version which able to accept customized adapter input.
+Under development
 
 <p align="center"><img src="misc/porechop_logo_knife.png" alt="Porechop" width="600"></p>
 
